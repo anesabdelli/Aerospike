@@ -14,6 +14,7 @@ ABDELLI Anes
 -------------- INITIALISATION ----------------
 
 DEMARRAGE DU PROJET
+
 1️⃣ Cloner le dépôt : Commencez par cloner le projet sur votre machine.
 Exécutez la commande suivante dans votre terminal :
 git clone https://github.com/anesabdelli/Aerospike.git
